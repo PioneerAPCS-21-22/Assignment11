@@ -1,6 +1,6 @@
 # Assignment 11
 
-For this assignment you are given skeleton classes with some methods already implemented. Your job is to implement the missing methods and then complete the `Runner` class by using the current methods and the ones you created.
+For this assignment you are given skeleton classes with some methods already implemented. Your job is to implement the missing methods and then complete the `Main` class by using the current methods and the ones you created.
 
 Use the three starter files: `Library.java`, `Book.java`, `Main.java`
 
